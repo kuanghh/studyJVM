@@ -1,6 +1,7 @@
 package com.sjvm.part3;
 
 /**
+ * 测试内存分配策略
  * Created by 951087952@qq.com on 2017/4/13 0013.
  *
  * VM option：-verbose:gc -Xms20M -Xmx20M -Xmn10M -XX:+PrintGCDetails -XX:SurvivorRatio=8  -XX:+UseSerialGC
